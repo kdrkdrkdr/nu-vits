@@ -1,0 +1,1 @@
+from .inference import main as wav_upscaling
